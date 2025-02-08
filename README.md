@@ -1,2 +1,2 @@
 # frontend
-Next.js Tailwind css
+Next.js Tailwind css and Flowbite
